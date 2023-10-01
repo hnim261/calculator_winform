@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoang\\Documents\\btcn1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj": {}
+    "C:\\Users\\hoang\\Documents\\2001215963_Vũ Văn Minh_BTLCN1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoang\\Documents\\btcn1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj": {
+    "C:\\Users\\hoang\\Documents\\2001215963_Vũ Văn Minh_BTLCN1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\Documents\\btcn1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\Documents\\2001215963_Vũ Văn Minh_BTLCN1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj",
         "projectName": "MaSV_HoTen_BTLCN1_Calculator",
-        "projectPath": "C:\\Users\\hoang\\Documents\\btcn1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj",
+        "projectPath": "C:\\Users\\hoang\\Documents\\2001215963_Vũ Văn Minh_BTLCN1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\MaSV_HoTen_BTLCN1_Calculator.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\Documents\\btcn1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\obj\\",
+        "outputPath": "C:\\Users\\hoang\\Documents\\2001215963_Vũ Văn Minh_BTLCN1\\Calculator\\MaSV_HoTen_BTLCN1_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
