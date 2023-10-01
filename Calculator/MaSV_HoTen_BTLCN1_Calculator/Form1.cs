@@ -88,6 +88,7 @@ namespace MaSV_HoTen_BTLCN1_Calculator
         {
             txt_kq.Text = "";
             txt_kq2.Text = "";
+            MessageBox.Show("Sua doi git!!");
         }
 
         private void btn_xoa_Click(object sender, EventArgs e)
